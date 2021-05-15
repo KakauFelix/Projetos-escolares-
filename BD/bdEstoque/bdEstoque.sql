@@ -23,7 +23,7 @@ create table tbFornecedor(
 
 create table tbProduto(
      codProduto int primary key identity(1,1)
-     , descriçãoProduto varchar(50) not null 
+     , descricaoProduto varchar(50) not null 
      , valorProduto smallmoney not null
      , quantidadeProduto int not null
      , codFabricante int foreign key references tbFabricante(codFabricante) 
