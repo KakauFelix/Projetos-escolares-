@@ -1,2 +1,2 @@
 # Projetos-escolares
-Aqui estão alguns dos meus projetos criados em aula.
+Aqui estão alguns dos meus projetos e atividades criados em aula.
